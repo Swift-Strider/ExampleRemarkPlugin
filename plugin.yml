@@ -1,0 +1,5 @@
+name: ExampleRemarkPlugin
+author: DiamondStrider1
+main: DiamondStrider1\ExampleRemarkPlugin\Plugin
+api: 4.0.0
+version: 0.0.1

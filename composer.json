@@ -1,0 +1,16 @@
+{
+    "name": "diamondstrider1/example-remark-plugin",
+    "description": "An example plugin using Remark",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DiamondStrider1",
+            "email": "62265561+Swift-Strider@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "pocketmine/pocketmine-mp": "^4.4",
+        "diamondstrider1/remark": "^1.0"
+    }
+}
