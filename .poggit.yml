@@ -5,7 +5,7 @@ projects:
   ExampleRemarkPlugin:
     path: ""
     libs:
-      - src: swift-strider/remark
+      - src: swift-strider/remark/remark
         version: ^3.3.0
         epitope: .random
 ...
