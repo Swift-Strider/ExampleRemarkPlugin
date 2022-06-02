@@ -1,0 +1,11 @@
+build-by-default: true
+branches:
+- main
+projects:
+  ExampleRemarkPlugin:
+    path: ""
+    libs:
+      - src: swift-strider/remark
+        version: ^3.3.0
+        epitope: .random
+...
