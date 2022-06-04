@@ -11,6 +11,6 @@
     ],
     "require": {
         "pocketmine/pocketmine-mp": "^4.4",
-        "diamondstrider1/remark": "^1.0"
+        "diamondstrider1/remark": "^1.1"
     }
 }
